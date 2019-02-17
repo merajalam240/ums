@@ -1,0 +1,11 @@
+{
+  "autoload":{
+    "psr-4":{
+      "App\\":"src\\BITM\\TeamName\\"
+    }
+  },
+  "require":{
+    "phpmailer/phpmailer":"v6.0.1"
+  }
+}
+
